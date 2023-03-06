@@ -1,0 +1,10 @@
+C:\Users\philippe\Desktop\My Studies\dev.working\Design Pattern Framework 4.0 CSharp\src\DoFactory Patterns 4.0 CS\Gang Of Four\DoFactory.GangOfFour.Observer.RealWorld\bin\Debug\DoFactory.GangOfFour.Observer.RealWorld.exe
+C:\Users\philippe\Desktop\My Studies\dev.working\Design Pattern Framework 4.0 CSharp\src\DoFactory Patterns 4.0 CS\Gang Of Four\DoFactory.GangOfFour.Observer.RealWorld\bin\Debug\DoFactory.GangOfFour.Observer.RealWorld.pdb
+C:\Users\philippe\Desktop\My Studies\dev.working\Design Pattern Framework 4.0 CSharp\src\DoFactory Patterns 4.0 CS\Gang Of Four\DoFactory.GangOfFour.Observer.RealWorld\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\philippe\Desktop\My Studies\dev.working\Design Pattern Framework 4.0 CSharp\src\DoFactory Patterns 4.0 CS\Gang Of Four\DoFactory.GangOfFour.Observer.RealWorld\obj\Debug\DoFactory.GangOfFour.Observer.RealWorld.exe
+C:\Users\philippe\Desktop\My Studies\dev.working\Design Pattern Framework 4.0 CSharp\src\DoFactory Patterns 4.0 CS\Gang Of Four\DoFactory.GangOfFour.Observer.RealWorld\obj\Debug\DoFactory.GangOfFour.Observer.RealWorld.pdb
+C:\Users\Troy\Desktop\My Studies\DEV.sandbox\OOP\_working\src_Design Pattern Framework 4.0 CSharp\Gang Of Four\DoFactory.GangOfFour.Observer.RealWorld\obj\Debug\DoFactory.GangOfFour.Observer.RealWorld.exe
+C:\Users\Troy\Desktop\My Studies\DEV.sandbox\OOP\_working\src_Design Pattern Framework 4.0 CSharp\Gang Of Four\DoFactory.GangOfFour.Observer.RealWorld\obj\Debug\DoFactory.GangOfFour.Observer.RealWorld.pdb
+C:\Users\Troy\Desktop\My Studies\DEV.sandbox\OOP\_working\src_Design Pattern Framework 4.0 CSharp\Gang Of Four\DoFactory.GangOfFour.Observer.RealWorld\bin\Debug\DoFactory.GangOfFour.Observer.RealWorld.exe
+C:\Users\Troy\Desktop\My Studies\DEV.sandbox\OOP\_working\src_Design Pattern Framework 4.0 CSharp\Gang Of Four\DoFactory.GangOfFour.Observer.RealWorld\bin\Debug\DoFactory.GangOfFour.Observer.RealWorld.pdb
+C:\Users\Troy\Desktop\My Studies\DEV.sandbox\OOP\_working\src_Design Pattern Framework 4.0 CSharp\Gang Of Four\DoFactory.GangOfFour.Observer.RealWorld\obj\Debug\DoFactory.GangOfFour.Observer.RealWorld.csprojResolveAssemblyReference.cache

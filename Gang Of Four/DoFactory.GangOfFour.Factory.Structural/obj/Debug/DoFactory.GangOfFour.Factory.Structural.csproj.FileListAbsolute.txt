@@ -1,0 +1,10 @@
+C:\Users\philippe\Desktop\My Studies\dev.working\Design Pattern Framework 4.0 CSharp\src\DoFactory Patterns 4.0 CS\Gang Of Four\DoFactory.GangOfFour.Factory.Structural\bin\Debug\DoFactory.GangOfFour.Factory.Structural.exe
+C:\Users\philippe\Desktop\My Studies\dev.working\Design Pattern Framework 4.0 CSharp\src\DoFactory Patterns 4.0 CS\Gang Of Four\DoFactory.GangOfFour.Factory.Structural\bin\Debug\DoFactory.GangOfFour.Factory.Structural.pdb
+C:\Users\philippe\Desktop\My Studies\dev.working\Design Pattern Framework 4.0 CSharp\src\DoFactory Patterns 4.0 CS\Gang Of Four\DoFactory.GangOfFour.Factory.Structural\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\philippe\Desktop\My Studies\dev.working\Design Pattern Framework 4.0 CSharp\src\DoFactory Patterns 4.0 CS\Gang Of Four\DoFactory.GangOfFour.Factory.Structural\obj\Debug\DoFactory.GangOfFour.Factory.Structural.exe
+C:\Users\philippe\Desktop\My Studies\dev.working\Design Pattern Framework 4.0 CSharp\src\DoFactory Patterns 4.0 CS\Gang Of Four\DoFactory.GangOfFour.Factory.Structural\obj\Debug\DoFactory.GangOfFour.Factory.Structural.pdb
+C:\Users\Troy\Desktop\My Studies\DEV.sandbox\OOP\_working\src_Design Pattern Framework 4.0 CSharp\Gang Of Four\DoFactory.GangOfFour.Factory.Structural\bin\Debug\DoFactory.GangOfFour.Factory.Structural.exe
+C:\Users\Troy\Desktop\My Studies\DEV.sandbox\OOP\_working\src_Design Pattern Framework 4.0 CSharp\Gang Of Four\DoFactory.GangOfFour.Factory.Structural\bin\Debug\DoFactory.GangOfFour.Factory.Structural.pdb
+C:\Users\Troy\Desktop\My Studies\DEV.sandbox\OOP\_working\src_Design Pattern Framework 4.0 CSharp\Gang Of Four\DoFactory.GangOfFour.Factory.Structural\obj\Debug\DoFactory.GangOfFour.Factory.Structural.csprojResolveAssemblyReference.cache
+C:\Users\Troy\Desktop\My Studies\DEV.sandbox\OOP\_working\src_Design Pattern Framework 4.0 CSharp\Gang Of Four\DoFactory.GangOfFour.Factory.Structural\obj\Debug\DoFactory.GangOfFour.Factory.Structural.exe
+C:\Users\Troy\Desktop\My Studies\DEV.sandbox\OOP\_working\src_Design Pattern Framework 4.0 CSharp\Gang Of Four\DoFactory.GangOfFour.Factory.Structural\obj\Debug\DoFactory.GangOfFour.Factory.Structural.pdb

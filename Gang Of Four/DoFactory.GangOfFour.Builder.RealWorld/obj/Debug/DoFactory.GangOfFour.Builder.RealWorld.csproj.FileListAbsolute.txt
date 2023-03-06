@@ -1,0 +1,10 @@
+C:\Users\philippe\Desktop\My Studies\dev.working\Design Pattern Framework 4.0 CSharp\src\DoFactory Patterns 4.0 CS\Gang Of Four\DoFactory.GangOfFour.Builder.RealWorld\bin\Debug\DoFactory.GangOfFour.Builder.RealWorld.exe
+C:\Users\philippe\Desktop\My Studies\dev.working\Design Pattern Framework 4.0 CSharp\src\DoFactory Patterns 4.0 CS\Gang Of Four\DoFactory.GangOfFour.Builder.RealWorld\bin\Debug\DoFactory.GangOfFour.Builder.RealWorld.pdb
+C:\Users\philippe\Desktop\My Studies\dev.working\Design Pattern Framework 4.0 CSharp\src\DoFactory Patterns 4.0 CS\Gang Of Four\DoFactory.GangOfFour.Builder.RealWorld\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\philippe\Desktop\My Studies\dev.working\Design Pattern Framework 4.0 CSharp\src\DoFactory Patterns 4.0 CS\Gang Of Four\DoFactory.GangOfFour.Builder.RealWorld\obj\Debug\DoFactory.GangOfFour.Builder.RealWorld.exe
+C:\Users\philippe\Desktop\My Studies\dev.working\Design Pattern Framework 4.0 CSharp\src\DoFactory Patterns 4.0 CS\Gang Of Four\DoFactory.GangOfFour.Builder.RealWorld\obj\Debug\DoFactory.GangOfFour.Builder.RealWorld.pdb
+C:\Users\Troy\Desktop\My Studies\DEV.sandbox\OOP\_working\src_Design Pattern Framework 4.0 CSharp\Gang Of Four\DoFactory.GangOfFour.Builder.RealWorld\bin\Debug\DoFactory.GangOfFour.Builder.RealWorld.exe
+C:\Users\Troy\Desktop\My Studies\DEV.sandbox\OOP\_working\src_Design Pattern Framework 4.0 CSharp\Gang Of Four\DoFactory.GangOfFour.Builder.RealWorld\bin\Debug\DoFactory.GangOfFour.Builder.RealWorld.pdb
+C:\Users\Troy\Desktop\My Studies\DEV.sandbox\OOP\_working\src_Design Pattern Framework 4.0 CSharp\Gang Of Four\DoFactory.GangOfFour.Builder.RealWorld\obj\Debug\DoFactory.GangOfFour.Builder.RealWorld.csprojResolveAssemblyReference.cache
+C:\Users\Troy\Desktop\My Studies\DEV.sandbox\OOP\_working\src_Design Pattern Framework 4.0 CSharp\Gang Of Four\DoFactory.GangOfFour.Builder.RealWorld\obj\Debug\DoFactory.GangOfFour.Builder.RealWorld.exe
+C:\Users\Troy\Desktop\My Studies\DEV.sandbox\OOP\_working\src_Design Pattern Framework 4.0 CSharp\Gang Of Four\DoFactory.GangOfFour.Builder.RealWorld\obj\Debug\DoFactory.GangOfFour.Builder.RealWorld.pdb

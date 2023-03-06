@@ -1,0 +1,9 @@
+C:\Users\philippe\Desktop\My Studies\dev.working\Design Pattern Framework 4.0 CSharp\src\DoFactory Patterns 4.0 CS\Gang Of Four\DoFactory.GangOfFour.Decorator.RealWorld\bin\Debug\DoFactory.GangOfFour.Decorator.RealWorld.exe
+C:\Users\philippe\Desktop\My Studies\dev.working\Design Pattern Framework 4.0 CSharp\src\DoFactory Patterns 4.0 CS\Gang Of Four\DoFactory.GangOfFour.Decorator.RealWorld\bin\Debug\DoFactory.GangOfFour.Decorator.RealWorld.pdb
+C:\Users\philippe\Desktop\My Studies\dev.working\Design Pattern Framework 4.0 CSharp\src\DoFactory Patterns 4.0 CS\Gang Of Four\DoFactory.GangOfFour.Decorator.RealWorld\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\philippe\Desktop\My Studies\dev.working\Design Pattern Framework 4.0 CSharp\src\DoFactory Patterns 4.0 CS\Gang Of Four\DoFactory.GangOfFour.Decorator.RealWorld\obj\Debug\DoFactory.GangOfFour.Decorator.RealWorld.exe
+C:\Users\philippe\Desktop\My Studies\dev.working\Design Pattern Framework 4.0 CSharp\src\DoFactory Patterns 4.0 CS\Gang Of Four\DoFactory.GangOfFour.Decorator.RealWorld\obj\Debug\DoFactory.GangOfFour.Decorator.RealWorld.pdb
+C:\Users\Troy\Desktop\My Studies\DEV.sandbox\OOP\_working\src_Design Pattern Framework 4.0 CSharp\Gang Of Four\DoFactory.GangOfFour.Decorator.RealWorld\bin\Debug\DoFactory.GangOfFour.Decorator.RealWorld.exe
+C:\Users\Troy\Desktop\My Studies\DEV.sandbox\OOP\_working\src_Design Pattern Framework 4.0 CSharp\Gang Of Four\DoFactory.GangOfFour.Decorator.RealWorld\bin\Debug\DoFactory.GangOfFour.Decorator.RealWorld.pdb
+C:\Users\Troy\Desktop\My Studies\DEV.sandbox\OOP\_working\src_Design Pattern Framework 4.0 CSharp\Gang Of Four\DoFactory.GangOfFour.Decorator.RealWorld\obj\Debug\DoFactory.GangOfFour.Decorator.RealWorld.exe
+C:\Users\Troy\Desktop\My Studies\DEV.sandbox\OOP\_working\src_Design Pattern Framework 4.0 CSharp\Gang Of Four\DoFactory.GangOfFour.Decorator.RealWorld\obj\Debug\DoFactory.GangOfFour.Decorator.RealWorld.pdb
